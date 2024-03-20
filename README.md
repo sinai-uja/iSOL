@@ -9,7 +9,7 @@ La lista está formada por 2.509 palabras positivas y por 5.626 negativas. Para 
 ## Cómo citar
 
 Si utiliza este lexicón en su trabajo, haga referencia al artículo [Semantic orientation for polarity classification in Spanish reviews](https://www.sciencedirect.com/science/article/abs/pii/S0957417413004752?via%3Dihub)
-´´´
+```
 @article{molina2013semantic,
   title={Semantic orientation for polarity classification in Spanish reviews},
   author={Molina-Gonz{\'a}lez, M Dolores and Mart{\'\i}nez-C{\'a}mara, Eugenio and Mart{\'\i}n-Valdivia, Mar{\'\i}a-Teresa and Perea-Ortega, Jos{\'e} M},
@@ -20,5 +20,4 @@ Si utiliza este lexicón en su trabajo, haga referencia al artículo [Semantic o
   year={2013},
   publisher={Elsevier}
 }
-
-´´´
+```
